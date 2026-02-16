@@ -1,0 +1,1 @@
+class TheHive_Trader_ZmbM: ExpansionTraderZombieBase  {};

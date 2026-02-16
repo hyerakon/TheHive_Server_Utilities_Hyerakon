@@ -1,0 +1,2 @@
+class TheHive_ExpansionQuestObject_Workbench: ExpansionQuestStaticObject {};
+class TheHive_ExpansionQuestObject_Blood: ExpansionQuestStaticObject {};

@@ -1,0 +1,240 @@
+"Language","original","english","czech","german","russian","polish","hungarian","italian","spanish","french","chinese","japanese","portuguese","chinesesimp"
+"STR_THEHIVE_QUEST_ITEM_1002","Ricevuta di Deposito Oggetti - cod.1002","Object Deposit Receipt - cod1002","Potvrzení o vkladu objektu - cod1002","Objekt-Einzahlungsbeleg – cod1002","Квитанция о залоге объекта - треска1002","Obiektowy dowód wpłaty - kod1002","Tárgybetéti nyugta - cod1002","Ricevuta di Deposito Oggetti - cod.1002","Recibo de depósito objeto - bacalao1002","Reçu de dépôt d'objet - morue1002","對象存款收據 - cod1002","オブジェクトデポジットの受領 - cod1002","Recibo de Depósito Objeto - cód.1002","对象存款收据 - cod1002"
+"STR_THEHIVE_QUEST_ITEM_1002_DESCRIPTION","[Il foglietto è strappato da un blocco. Il tuo nome è scritto a penna, in alto.]
+
+Deposito temporaneo effetti personali – AUT. PROV.
+Il soggetto è stato registrato.
+Equipaggiamento trattenuto per verifica.
+
+Consegnare questo documento alla guardia di servizio per la restituzione degli effetti personali.
+HVO–REG/Δ-07","[The note is torn from a pad. Your name is handwritten at the top.]
+
+Temporary storage of personal effects – PROV. AUTH.
+
+The subject has been registered.
+Equipment retained for inspection.
+
+Present this document to the guard on duty for the return of personal effects.
+HVO–REG/Δ-07","[Poznámka je vytržená z bloku. Nahoře je ručně napsáno vaše jméno.]
+
+Dočasné uložení osobních věcí – PROV. ÚŘAD.
+
+Subjekt byl zaregistrován.
+Vybavení zadrženo ke kontrole.
+
+Předložte tento dokument službu konajícímu strážnému pro vrácení osobních věcí.
+HVO–REG/Δ-07","[Der Zettel wurde aus einem Block gerissen. Oben steht Ihr Name handschriftlich.]
+
+Temporäre Verwahrung persönlicher Gegenstände – PROV. BEH.
+
+Die Person wurde registriert.
+Ausrüstung zur Überprüfung einbehalten.
+
+Dieses Dokument dem diensthabenden Wachposten zur Rückgabe der persönlichen Gegenstände vorlegen.
+HVO–REG/Δ-07","[Записка вырвана из блокнота. Вверху от руки написано ваше имя.]
+
+Временное хранение личных вещей – ВРЕМ. ОРГАН.
+
+Субъект зарегистрирован.
+Снаряжение удержано для проверки.
+
+Передать данный документ дежурному для возврата личных вещей.
+HVO–REG/Δ-07","[Notatka jest wyrwana z notesu. U góry odręcznie zapisano twoje imię.]
+
+Tymczasowy depozyt rzeczy osobistych – WŁADZ. TYMCZ.
+
+Podmiot został zarejestrowany.
+Sprzęt zatrzymany do weryfikacji.
+
+Przekazać dokument wartownikowi dyżurnemu w celu zwrotu rzeczy osobistych.
+HVO–REG/Δ-07","[A cetli egy jegyzettömbből lett kitépve. Felül kézzel írva szerepel a neved.]
+
+Személyes tárgyak ideiglenes megőrzése – IDEIGL. HATÓSÁG.
+
+Az alany regisztrálva.
+A felszerelés ellenőrzés céljából visszatartva.
+
+A személyes tárgyak visszaszolgáltatásához adja át ezt a dokumentumot a szolgálatban lévő őrnek.
+HVO–REG/Δ-07","[Il foglietto è strappato da un blocco. Il tuo nome è scritto a penna, in alto.]
+
+Deposito temporaneo effetti personali – AUT. PROV.
+
+Il soggetto è stato registrato.
+Equipaggiamento trattenuto per verifica.
+
+Consegnare questo documento alla guardia di servizio per la restituzione degli effetti personali.
+HVO–REG/Δ-07","[La nota está arrancada de un bloc. Tu nombre está escrito a mano en la parte superior.]
+
+Depósito temporal de efectos personales – AUT. PROV.
+
+El sujeto ha sido registrado.
+Equipo retenido para verificación.
+
+Entregar este documento al guardia de servicio para la devolución de los efectos personales.
+HVO–REG/Δ-07","[Le billet est arraché d’un bloc. Votre nom est écrit à la main en haut.]
+
+Dépôt temporaire des effets personnels – AUT. PROV.
+
+Le sujet a été enregistré.
+Équipement retenu pour vérification.
+
+Remettre ce document au garde de service pour la restitution des effets personnels.
+HVO–REG/Δ-07","[纸条从记事本上撕下。顶部用笔写着你的名字。]
+
+个人物品临时存放 – 临时机构。
+
+对象已登记。
+装备已扣留以供检查。
+
+请将此文件交给值勤警卫以取回个人物品。
+HVO–REG/Δ-07","[メモはメモ帳から破り取られている。上部にあなたの名前が手書きされている。]
+
+私物一時保管 – 臨時当局。
+
+対象は登録済み。
+装備は確認のため保留中。
+
+私物返却のため、この書類を当直の警備員に提出すること。
+HVO–REG/Δ-07","[A nota foi arrancada de um bloco. Seu nome está escrito à mão no topo.]
+
+Depósito temporário de pertences pessoais – AUT. PROV.
+
+O indivíduo foi registrado.
+Equipamento retido para verificação.
+
+Entregar este documento ao guarda de serviço para a devolução dos pertences pessoais.
+HVO–REG/Δ-07","[纸条从记事本上撕下。顶部用笔写着你的名字。]
+
+个人物品临时存放 – 临时机构。
+
+对象已登记。
+装备已扣留以供检查。
+
+请将此文件交给值勤警卫以取回个人物品。
+HVO–REG/Δ-07"
+"STR_THEHIVE_QUEST_ITEM_1005","Richiesta di Tanaka","Tanaka's Request","Tanakova žádost","Tanakas Anfrage","Запрос Танаки","Prośba Tanaki","Tanaka kérése","Richiesta di Tanaka","Solicitud de Tanaka","Demande de Tanaka","田中の依頼","田中の依頼","Pedido de Tanaka","田中的请求"
+"STR_THEHIVE_QUEST_ITEM_1005_DESCRIPTION","[Un foglio pulito, piegato con precisione. L’inchiostro è scuro, recente. In alto, uno spazio lasciato vuoto per essere appeso.]
+
+Cerco fungo porcino fresco.
+Porcino deve essere intero.
+PERFETTO.
+Marcio, no. Segni di morsi, no.
+Portare un fungo. Non servire altro.
+-Tanaka","[A clean sheet, neatly folded. The ink is dark and fresh. At the top, a blank space left for hanging.]
+
+Looking for a fresh porcini mushroom.
+The porcini must be whole.
+PERFECT.
+Rotten, no. Bite marks, no.
+Bring one mushroom. Nothing else needed.
+-Tanaka","[Čistý list, pečlivě složený. Inkoust je tmavý a čerstvý. Nahoře je ponecháno prázdné místo k zavěšení.]
+
+Hledám čerstvý hřib.
+Hřib musí být celý.
+DOKONALÝ.
+Shnilý ne. Stopy po kousnutí ne.
+Přinést jeden hřib. Nic víc není potřeba.
+-Tanaka","[Ein sauberes Blatt, sorgfältig gefaltet. Die Tinte ist dunkel und frisch. Oben ist Platz zum Aufhängen gelassen.]
+
+Suche frischen Steinpilz.
+Der Steinpilz muss ganz sein.
+PERFEKT.
+Faul, nein. Bissspuren, nein.
+Einen Pilz bringen. Nichts weiter nötig.
+-Tanaka","[Чистый лист, аккуратно сложенный. Чернила тёмные, свежие. Вверху оставлено пустое место для подвешивания.]
+
+Ищу свежий белый гриб.
+Гриб должен быть целым.
+ИДЕАЛЬНО.
+Гнилой — нет. Следы укусов — нет.
+Принести один гриб. Ничего больше не нужно.
+-Танака","[Czysta kartka, starannie złożona. Atrament jest ciemny i świeży. U góry pozostawiono miejsce do zawieszenia.]
+
+Szukam świeżego borowika.
+Borowik musi być cały.
+IDEALNY.
+Zgniły — nie. Ślady ugryzień — nie.
+Przynieść jednego grzyba. Nic więcej nie potrzeba.
+-Tanaka","[Egy tiszta lap, precízen összehajtva. A tinta sötét és friss. Felül hely maradt az akasztáshoz.]
+
+Friss vargányát keresek.
+A vargányának épnek kell lennie.
+TÖKÉLETES.
+Rohadt nem. Harapásnyom nem.
+Hozz egy gombát. Más nem kell.
+-Tanaka","[Un foglio pulito, piegato con precisione. L’inchiostro è scuro, recente. In alto, uno spazio lasciato vuoto per essere appeso.]
+
+Cerco fungo porcino fresco.
+Porcino deve essere intero.
+PERFETTO.
+Marcio, no. Segni di morsi, no.
+Portare un fungo. Non servire altro.
+-Tanaka","[Una hoja limpia, doblada con precisión. La tinta es oscura y reciente. En la parte superior hay un espacio dejado para colgar.]
+
+Busco un hongo porcini fresco.
+El porcini debe estar entero.
+PERFECTO.
+Podrido, no. Marcas de mordiscos, no.
+Traer un hongo. No se necesita nada más.
+-Tanaka","[Une feuille propre, pliée avec précision. L’encre est sombre et récente. En haut, un espace est laissé pour l’accrocher.]
+
+Je cherche un cèpe frais.
+Le cèpe doit être entier.
+PARFAIT.
+Pourri, non. Traces de morsure, non.
+Apporter un champignon. Rien d’autre nécessaire.
+-Tanaka","[一张干净的纸张，折叠得很整齐。墨迹深色而新鲜。顶部留有空白以便悬挂。]
+
+寻找新鲜的牛肝菌。
+牛肝菌必须完整。
+完美。
+腐烂的不行。有咬痕的不行。
+带来一朵蘑菇。不需要其他东西。
+-Tanaka","[きれいな紙が丁寧に折られている。インクは濃く、新しい。上部には吊るすための空白が残されている。]
+
+新鮮なポルチーニ茸を探している。
+ポルチーニは完全な状態でなければならない。
+完璧。
+腐っているもの不可。噛み跡のあるもの不可。
+茸を一つ持ってくる。他には不要。
+-Tanaka","[Uma folha limpa, dobrada com precisão. A tinta é escura e recente. No topo, há um espaço deixado para pendurar.]
+
+Procuro um cogumelo porcini fresco.
+O porcini deve estar inteiro.
+PERFEITO.
+Podre, não. Marcas de mordida, não.
+Trazer um cogumelo. Nada mais é necessário.
+-Tanaka","[一张干净的纸张，折叠得很整齐。墨迹深色而新鲜。顶部留有空白以便悬挂。]
+
+寻找新鲜的牛肝菌。
+牛肝菌必须完整。
+完美。
+腐烂的不行。有咬痕的不行。
+带来一朵蘑菇。不需要其他东西。
+-Tanaka"
+"STR_THEHIVE_QUEST_ITEM_2105","Pacco Rifornimenti - cod.2105","Supply Package - code 2105","Zásobovací balíček – kód 2105","Versorgungspaket – Code 2105","Пакет снабжения – код 2105","Paczka zaopatrzeniowa – kod 2105","Ellátmánycsomag – kód 2105","Pacco Rifornimenti - cod.2105","Paquete de suministros – cód. 2105","Colis de ravitaillement – code 2105","补给包 – 编号2105","補給パッケージ – コード2105","Pacote de suprimentos – cód. 2105","补给包 – 编号2105"
+"STR_THEHIVE_QUEST_ITEM_2105_DESCRIPTION","Un documento che descrive la quest 2105.","A document describing quest 2105.","Dokument popisující úkol 2105.","Ein Dokument, das Quest 2105 beschreibt.","Документ, описывающий задание 2105.","Dokument opisujący zadanie 2105.","A 2105-ös küldetést leíró dokumentum.","Un documento che descrive la quest 2105.","Un documento que describe la misión 2105.","Un document décrivant la quête 2105.","一份描述任务2105的文件。","クエスト2105を説明する書類。","Um documento que descreve a missão 2105.","一份描述任务2105的文件。"
+"STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE","Pacco Tecnico – SKS/Δ","Technical Package – SKS/Δ","Technický balíček – SKS/Δ","Technisches Paket – SKS/Δ","Технический пакет – SKS/Δ","Pakiet techniczny – SKS/Δ","Technikai csomag – SKS/Δ","Pacco Tecnico – SKS/Δ","Paquete técnico – SKS/Δ","Paquet technique – SKS/Δ","技术包 – SKS/Δ","技術パッケージ – SKS/Δ","Pacote técnico – SKS/Δ","技术包 – SKS/Δ"
+"STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE_DESCRIPTION","Un pacco avvolto in tela gialla cerata, legato stretto.
+All’interno: gruppo otturatore SKS, molla di recupero e sistema di scatto.
+Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
+Configurazione intenzionalmente incompleta.","A package wrapped in yellow waxed canvas, tightly bound with cord. Marked with the SKS symbol.","Balíček zabalený do žlutého voskovaného plátna, pevně svázaný provazem. Označen symbolem SKS.","Ein Paket, in gelbes gewachstes Tuch gewickelt und fest mit Schnur gebunden. Mit dem SKS-Symbol markiert.","Пакет, обёрнутый в жёлтую вощёную ткань и туго перевязанный шнуром. Помечен символом SKS.","Paczka owinięta żółtym woskowanym płótnem, ciasno związana sznurkiem. Oznaczona symbolem SKS.","Sárga viaszolt vászonba csomagolt, szorosan zsinórral átkötött csomag. SKS jellel megjelölve.","Un pacco avvolto in tela gialla cerata, legato stretto.
+All’interno: gruppo otturatore SKS, molla di recupero e sistema di scatto.
+Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
+Configurazione intenzionalmente incompleta.","Un paquete envuelto en lona amarilla encerada, atado firmemente con cuerda. Marcado con el símbolo SKS.","Un colis enveloppé de toile cirée jaune, solidement attaché avec une corde. Marqué du symbole SKS.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有SKS标志。","黄色の防水布で包まれ、紐でしっかり縛られた包み。SKSの印が付いている。","Um pacote envolto em lona amarela encerada, firmemente amarrado com corda. Marcado com o símbolo SKS.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有SKS标志。"
+"STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE","Pacco Tecnico – Pioneer/Δ","Technical Package – Pioneer/Δ","Technický balíček – Pioneer/Δ","Technisches Paket – Pioneer/Δ","Технический пакет – Pioneer/Δ","Pakiet techniczny – Pioneer/Δ","Technikai csomag – Pioneer/Δ","Pacco Tecnico – Pioneer/Δ","Paquete técnico – Pioneer/Δ","Paquet technique – Pioneer/Δ","技术包 – Pioneer/Δ","技術パッケージ – Pioneer/Δ","Pacote técnico – Pioneer/Δ","技术包 – Pioneer/Δ"
+"STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE_DESCRIPTION","Un pacco avvolto in tela gialla cerata, legato stretto.
+All’interno: otturatore Pioneer, gruppo di scatto e componenti dell’alimentazione.
+Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
+Configurazione intenzionalmente incompleta.","A package wrapped in yellow waxed canvas, tightly bound with cord. Marked with the Pioneer symbol.","Balíček zabalený do žlutého voskovaného plátna, pevně svázaný provazem. Označen symbolem Pioneer.","Ein Paket, in gelbes gewachstes Tuch gewickelt und fest mit Schnur gebunden. Mit dem Pioneer-Symbol markiert.","Пакет, обёрнутый в жёлтую вощёную ткань и туго перевязанный шнуром. Помечен символом Pioneer.","Paczka owinięta żółtym woskowanym płótnem, ciasno związana sznurkiem. Oznaczona symbolem Pioneer.","Sárga viaszolt vászonba csomagolt, szorosan zsinórral átkötött csomag. Pioneer jellel megjelölve.","Un pacco avvolto in tela gialla cerata, legato stretto.
+All’interno: otturatore Pioneer, gruppo di scatto e componenti dell’alimentazione.
+Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
+Configurazione intenzionalmente incompleta.","Un paquete envuelto en lona amarilla encerada, atado firmemente con cuerda. Marcado con el símbolo Pioneer.","Un colis enveloppé de toile cirée jaune, solidement attaché avec une corde. Marqué du symbole Pioneer.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有Pioneer标志。","黄色の防水布で包まれ、紐でしっかり縛られた包み。Pioneerの印が付いている。","Um pacote envolto em lona amarela encerada, firmemente amarrado com corda. Marcado com o símbolo Pioneer.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有Pioneer标志。"
+"STR_THEHIVE_QUEST_ITEM_FOODOMATIC_PACKAGE","Pacco Tecnico – Food-O-Matic/Δ","Technical Package – Food-O-Matic/Δ","Technický balíček – Food-O-Matic/Δ","Technisches Paket – Food-O-Matic/Δ","Технический пакет – Food-O-Matic/Δ","Pakiet techniczny – Food-O-Matic/Δ","Technikai csomag – Food-O-Matic/Δ","Pacco Tecnico – Food-O-Matic/Δ","Paquete técnico – Food-O-Matic/Δ","Paquet technique – Food-O-Matic/Δ","技术包 – Food-O-Matic/Δ","技術パッケージ – Food-O-Matic/Δ","Pacote técnico – Food-O-Matic/Δ","技术包 – Food-O-Matic/Δ"
+"STR_THEHIVE_QUEST_ITEM_FOODOMATIC_PACKAGE_DESCRIPTION","Un pacco avvolto in tela gialla cerata, legato stretto.
+All’interno: razioni sigillate, bevande e materiali di consumo per distributori Food-O-Matic.
+Tutto selezionato, controllato e imballato a mano. Nessuna etichetta esterna.
+","A package wrapped in yellow waxed canvas, tightly bound with cord. Marked with the Food-O-Matic symbol.","Balíček zabalený do žlutého voskovaného plátna, pevně svázaný provazem. Označen symbolem Food-O-Matic.","Ein Paket, in gelbes gewachstes Tuch gewickelt und fest mit Schnur gebunden. Mit dem Food-O-Matic-Symbol markiert.","Пакет, обёрнутый в жёлтую вощёную ткань и туго перевязанный шнуром. Помечен символом Food-O-Matic.","Paczka owinięta żółtym woskowanym płótnem, ciasno związana sznurkiem. Oznaczona symbolem Food-O-Matic.","Sárga viaszolt vászonba csomagolt, szorosan zsinórral átkötött csomag. Food-O-Matic jellel megjelölve.","Un pacco avvolto in tela gialla cerata, legato stretto.
+All’interno: razioni sigillate, bevande e materiali di consumo per distributori Food-O-Matic.
+Tutto selezionato, controllato e imballato a mano. Nessuna etichetta esterna.
+","Un paquete envuelto en lona amarilla encerada, atado firmemente con cuerda. Marcado con el símbolo Food-O-Matic.","Un colis enveloppé de toile cirée jaune, solidement attaché avec une corde. Marqué du symbole Food-O-Matic.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有Food-O-Matic标志。","黄色の防水布で包まれ、紐でしっかり縛られた包み。Food-O-Maticの印が付いている。","Um pacote envolto em lona amarela encerada, firmemente amarrado com corda. Marcado com o símbolo Food-O-Matic.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有Food-O-Matic标志。"
