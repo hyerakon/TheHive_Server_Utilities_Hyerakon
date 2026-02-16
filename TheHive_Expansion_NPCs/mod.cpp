@@ -4,3 +4,7 @@ overview = "This mod is a custom Expansion Bundle–based NPCs System, developed
 action = "https://www.thehivemind.it/"; // link
 author = "Hyerakon"; // author
 version = "1.0"; // version
+picture = "TheHive_Server_Utilities_Hyerakon/data/thehive_filigrana.edds";
+logoSmall = "TheHive_Server_Utilities_Hyerakon/data/thehive_filigrana.edds";
+logo = "TheHive_Server_Utilities_Hyerakon/data/thehive_filigrana.edds";
+logoOver = "TheHive_Server_Utilities_Hyerakon/data/thehive_filigrana.edds";
