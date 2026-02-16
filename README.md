@@ -20,7 +20,7 @@ infrastructure.
 
 ## 📁 Repository Structure
 
-TheHive_Server_Utilities_Hyerakon 
+TheHive_Server_Utilities_Hyerakon
 ├── TheHive_Expansion_NPCs 
 ├── TheHive_Expansion_QuestItem
 ├── TheHive_ItemAndGears
