@@ -66,7 +66,7 @@ class CfgVehicles
 			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
 			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
 			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -161,7 +161,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -170,7 +170,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -178,7 +178,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -186,7 +186,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -194,7 +194,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -202,7 +202,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -214,7 +214,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -223,7 +223,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -231,7 +231,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -239,7 +239,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -247,7 +247,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -255,7 +255,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -267,7 +267,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -276,7 +276,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -284,7 +284,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -292,7 +292,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -300,7 +300,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -308,7 +308,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -320,7 +320,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -329,7 +329,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -337,7 +337,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -345,7 +345,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -353,7 +353,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -361,7 +361,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -373,7 +373,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -382,7 +382,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -390,7 +390,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -398,7 +398,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -406,7 +406,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -414,7 +414,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -427,7 +427,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_frontdoor.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_frontdoor.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -448,7 +448,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_frontdoor.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_frontdoor.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -457,7 +457,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor.rvmat"
 								}
 							},
 							
@@ -465,7 +465,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor.rvmat"
 								}
 							},
 							
@@ -473,7 +473,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_damage.rvmat"
 								}
 							},
 							
@@ -481,7 +481,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_damage.rvmat"
 								}
 							},
 							
@@ -489,7 +489,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_destruct.rvmat"
 								}
 							}
 						};
@@ -502,7 +502,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_frontdoor.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_frontdoor.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -523,7 +523,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_frontdoor.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_frontdoor.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -532,7 +532,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor.rvmat"
 								}
 							},
 							
@@ -540,7 +540,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor.rvmat"
 								}
 							},
 							
@@ -548,7 +548,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_damage.rvmat"
 								}
 							},
 							
@@ -556,7 +556,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_damage.rvmat"
 								}
 							},
 							
@@ -564,7 +564,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_frontdoor_destruct.rvmat"
 								}
 							}
 						};
@@ -577,7 +577,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_backdoor.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_backdoor.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -598,7 +598,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_backdoor.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_backdoor.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -607,7 +607,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor.rvmat"
 								}
 							},
 							
@@ -615,7 +615,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor.rvmat"
 								}
 							},
 							
@@ -623,7 +623,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_damage.rvmat"
 								}
 							},
 							
@@ -631,7 +631,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_damage.rvmat"
 								}
 							},
 							
@@ -639,7 +639,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_destruct.rvmat"
 								}
 							}
 						};
@@ -652,7 +652,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_backdoor.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_backdoor.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -673,7 +673,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_backdoor.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_backdoor.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -682,7 +682,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor.rvmat"
 								}
 							},
 							
@@ -690,7 +690,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor.rvmat"
 								}
 							},
 							
@@ -698,7 +698,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_damage.rvmat"
 								}
 							},
 							
@@ -706,7 +706,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_damage.rvmat"
 								}
 							},
 							
@@ -714,7 +714,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_backdoor_destruct.rvmat"
 								}
 							}
 						};
@@ -727,7 +727,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Hood.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Hood.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -737,7 +737,7 @@ class CfgVehicles
 				{
 					RefTexsMats[]=
 					{
-						"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_hood.rvmat"
+						"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_hood.rvmat"
 					};
 					healthLevels[]=
 					{
@@ -746,7 +746,7 @@ class CfgVehicles
 							1,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood.rvmat"
 							}
 						},
 						
@@ -754,7 +754,7 @@ class CfgVehicles
 							0.69999999,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood.rvmat"
 							}
 						},
 						
@@ -762,7 +762,7 @@ class CfgVehicles
 							0.5,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood_damage.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood_damage.rvmat"
 							}
 						},
 						
@@ -770,7 +770,7 @@ class CfgVehicles
 							0.30000001,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood_damage.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood_damage.rvmat"
 							}
 						},
 						
@@ -778,7 +778,7 @@ class CfgVehicles
 							0,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood_destruct.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_hood_destruct.rvmat"
 							}
 						}
 					};
@@ -790,7 +790,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Trunk.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_Trunk.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -811,7 +811,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_trunk.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_trunk.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -820,7 +820,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk.rvmat"
 								}
 							},
 							
@@ -828,7 +828,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk.rvmat"
 								}
 							},
 							
@@ -836,7 +836,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk_damage.rvmat"
 								}
 							},
 							
@@ -844,7 +844,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk_damage.rvmat"
 								}
 							},
 							
@@ -852,7 +852,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\Hatchback_02_trunk_destruct.rvmat"
 								}
 							}
 						};
@@ -877,7 +877,7 @@ class CfgVehicles
 			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
 			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
 			"dz\vehicles\wheeled\offroadhatchback\data\offroadhatchback_lights.rvmat",
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -972,7 +972,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -981,7 +981,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -989,7 +989,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -997,7 +997,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1005,7 +1005,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1013,7 +1013,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -1025,7 +1025,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1034,7 +1034,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -1042,7 +1042,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -1050,7 +1050,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1058,7 +1058,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1066,7 +1066,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -1078,7 +1078,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1087,7 +1087,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -1095,7 +1095,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -1103,7 +1103,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1111,7 +1111,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1119,7 +1119,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -1131,7 +1131,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1140,7 +1140,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -1148,7 +1148,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -1156,7 +1156,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1164,7 +1164,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1172,7 +1172,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -1184,7 +1184,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_body.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1193,7 +1193,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -1201,7 +1201,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body.rvmat"
 								}
 							},
 							
@@ -1209,7 +1209,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1217,7 +1217,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_damage.rvmat"
 								}
 							},
 							
@@ -1225,7 +1225,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Body_destruct.rvmat"
 								}
 							}
 						};
@@ -1238,7 +1238,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_frontdoor.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_frontdoor.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -1259,7 +1259,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_frontdoor.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_frontdoor.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1268,7 +1268,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor.rvmat"
 								}
 							},
 							
@@ -1276,7 +1276,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor.rvmat"
 								}
 							},
 							
@@ -1284,7 +1284,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_damage.rvmat"
 								}
 							},
 							
@@ -1292,7 +1292,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_damage.rvmat"
 								}
 							},
 							
@@ -1300,7 +1300,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_destruct.rvmat"
 								}
 							}
 						};
@@ -1313,7 +1313,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_frontdoor.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_frontdoor.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -1334,7 +1334,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_frontdoor.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_frontdoor.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1343,7 +1343,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor.rvmat"
 								}
 							},
 							
@@ -1351,7 +1351,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor.rvmat"
 								}
 							},
 							
@@ -1359,7 +1359,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_damage.rvmat"
 								}
 							},
 							
@@ -1367,7 +1367,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_damage.rvmat"
 								}
 							},
 							
@@ -1375,7 +1375,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_frontdoor_destruct.rvmat"
 								}
 							}
 						};
@@ -1388,7 +1388,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_backdoor.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_backdoor.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -1409,7 +1409,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_backdoor.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_backdoor.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1418,7 +1418,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor.rvmat"
 								}
 							},
 							
@@ -1426,7 +1426,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor.rvmat"
 								}
 							},
 							
@@ -1434,7 +1434,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_damage.rvmat"
 								}
 							},
 							
@@ -1442,7 +1442,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_damage.rvmat"
 								}
 							},
 							
@@ -1450,7 +1450,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_destruct.rvmat"
 								}
 							}
 						};
@@ -1463,7 +1463,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_backdoor.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_backdoor.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -1484,7 +1484,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_backdoor.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_backdoor.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1493,7 +1493,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor.rvmat"
 								}
 							},
 							
@@ -1501,7 +1501,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor.rvmat"
 								}
 							},
 							
@@ -1509,7 +1509,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_damage.rvmat"
 								}
 							},
 							
@@ -1517,7 +1517,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_damage.rvmat"
 								}
 							},
 							
@@ -1525,7 +1525,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_backdoor_destruct.rvmat"
 								}
 							}
 						};
@@ -1538,7 +1538,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Hood.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Hood.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -1548,7 +1548,7 @@ class CfgVehicles
 				{
 					RefTexsMats[]=
 					{
-						"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_hood.rvmat"
+						"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_hood.rvmat"
 					};
 					healthLevels[]=
 					{
@@ -1557,7 +1557,7 @@ class CfgVehicles
 							1,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood.rvmat"
 							}
 						},
 						
@@ -1565,7 +1565,7 @@ class CfgVehicles
 							0.69999999,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood.rvmat"
 							}
 						},
 						
@@ -1573,7 +1573,7 @@ class CfgVehicles
 							0.5,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood_damage.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood_damage.rvmat"
 							}
 						},
 						
@@ -1581,7 +1581,7 @@ class CfgVehicles
 							0.30000001,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood_damage.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood_damage.rvmat"
 							}
 						},
 						
@@ -1589,7 +1589,7 @@ class CfgVehicles
 							0,
 							
 							{
-								"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood_destruct.rvmat"
+								"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_hood_destruct.rvmat"
 							}
 						}
 					};
@@ -1601,7 +1601,7 @@ class CfgVehicles
 	{
 		hiddenSelectionsMaterials[]=
 		{
-			"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Trunk.rvmat"
+			"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_Trunk.rvmat"
 		};
 		class DamageSystem: DamageSystem
 		{
@@ -1622,7 +1622,7 @@ class CfgVehicles
 					{
 						RefTexsMats[]=
 						{
-							"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_trunk.rvmat"
+							"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_trunk.rvmat"
 						};
 						healthLevels[]=
 						{
@@ -1631,7 +1631,7 @@ class CfgVehicles
 								1,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk.rvmat"
 								}
 							},
 							
@@ -1639,7 +1639,7 @@ class CfgVehicles
 								0.69999999,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk.rvmat"
 								}
 							},
 							
@@ -1647,7 +1647,7 @@ class CfgVehicles
 								0.5,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk_damage.rvmat"
 								}
 							},
 							
@@ -1655,7 +1655,7 @@ class CfgVehicles
 								0.30000001,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk_damage.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk_damage.rvmat"
 								}
 							},
 							
@@ -1663,7 +1663,7 @@ class CfgVehicles
 								0,
 								
 								{
-									"TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk_destruct.rvmat"
+									"TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\Hatchback_02_trunk_destruct.rvmat"
 								}
 							}
 						};

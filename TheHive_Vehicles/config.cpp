@@ -35,17 +35,17 @@ class CfgMods
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"TheHive_Server_Utilities_Hyerakon/TheHive_Vehicles/Scripts/3_Game"};
+				files[] = {"TheHive_Server_Utilities/TheHive_Vehicles/Scripts/3_Game"};
 			};
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"TheHive_Server_Utilities_Hyerakon/TheHive_Vehicles/Scripts/4_World"};
+				files[] = {"TheHive_Server_Utilities/TheHive_Vehicles/Scripts/4_World"};
 			};
 			class missionScriptModule
 			{
 				value = "";
-				files[] = {"TheHive_Server_Utilities_Hyerakon/TheHive_Vehicles/Scripts/5_Mission"};
+				files[] = {"TheHive_Server_Utilities/TheHive_Vehicles/Scripts/5_Mission"};
 			};
 		};
 	};

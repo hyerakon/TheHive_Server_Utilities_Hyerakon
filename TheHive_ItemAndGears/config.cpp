@@ -33,17 +33,17 @@ class CfgMods
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"TheHive_Server_Utilities_Hyerakon/TheHive_ItemAndGears/Scripts/3_Game"};
+				files[] = {"TheHive_Server_Utilities/TheHive_ItemAndGears/Scripts/3_Game"};
 			};
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"TheHive_Server_Utilities_Hyerakon/TheHive_ItemAndGears/Scripts/4_World"};
+				files[] = {"TheHive_Server_Utilities/TheHive_ItemAndGears/Scripts/4_World"};
 			};
 			class missionScriptModule
 			{
 				value="";
-				files[]= {"TheHive_Server_Utilities_Hyerakon/TheHive_ItemAndGears/Quests/Scripts/5_Mission"};
+				files[]= {"TheHive_Server_Utilities/TheHive_ItemAndGears/Quests/Scripts/5_Mission"};
 			};
 		};
 	};
@@ -316,7 +316,7 @@ class CfgVehicles
 
         hiddenSelections[]={"zbytek"};
         hiddenSelectionsMaterials[]={"DZ\gear\containers\data\Protector_Case.rvmat"};
-        hiddenSelectionsTextures[]={"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\containers\data\thehive_loot_protectorcase_delta_co.paa"};
+        hiddenSelectionsTextures[]={"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\containers\data\thehive_loot_protectorcase_delta_co.paa"};
 
 		// attachments = define which items can attach onto this item.
 		attachments[] +=
@@ -371,7 +371,7 @@ class CfgVehicles
 
         hiddenSelections[]={"zbytek"};
         hiddenSelectionsMaterials[]={"DZ\gear\containers\data\Protector_Case.rvmat"};
-        hiddenSelectionsTextures[]={"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\containers\data\thehive_loot_protectorcase_concordia_co.paa"};
+        hiddenSelectionsTextures[]={"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\containers\data\thehive_loot_protectorcase_concordia_co.paa"};
 
         attachments[]+=
         {
@@ -464,7 +464,7 @@ class CfgVehicles
 
         hiddenSelections[]={"zbytek"};
         hiddenSelectionsMaterials[]={"DZ\gear\containers\data\FirsAidKit.rvmat"};
-        hiddenSelectionsTextures[]={"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\containers\data\thehive_firstaidkit_concordia_co.paa"};
+        hiddenSelectionsTextures[]={"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\containers\data\thehive_firstaidkit_concordia_co.paa"};
 
         attachments[]+=
         {
@@ -537,7 +537,7 @@ class CfgVehicles
     {
         displayName="Sacchetta Medica Δ";
         descriptionShort="Kit per il Pronto Intervento Individuale";
-        hiddenSelectionsTextures[]={"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\containers\data\thehive_firstaidkit_delta_co.paa"};
+        hiddenSelectionsTextures[]={"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\containers\data\thehive_firstaidkit_delta_co.paa"};
     }
 
     class TheHive_DarkMotoHelmet_Giallo1: DarkMotoHelmet_ColorBase
@@ -558,7 +558,7 @@ class CfgVehicles
 			"dz\characters\headgear\data\motohelmetvisor_dark_co.paa",
 			"dz\characters\headgear\data\motohelmetvisor_scarred_co.paa",
             "dz\characters\headgear\data\motohelmet_yellow_co.paa",
-			"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo1_co.paa"
+			"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo1_co.paa"
 		};
 		class ClothingTypes
 		{
@@ -725,7 +725,7 @@ class CfgVehicles
 			"dz\characters\headgear\data\motohelmetvisor_dark_co.paa",
 			"dz\characters\headgear\data\motohelmetvisor_scarred_co.paa",
             "dz\characters\headgear\data\motohelmet_yellow_co.paa",
-			"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo2_co.paa"
+			"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo2_co.paa"
 		};
 
     }; 
@@ -739,7 +739,7 @@ class CfgVehicles
 			"dz\characters\headgear\data\motohelmetvisor_dark_co.paa",
 			"dz\characters\headgear\data\motohelmetvisor_scarred_co.paa",
             "dz\characters\headgear\data\motohelmet_yellow_co.paa",
-			"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo3_co.paa"
+			"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo3_co.paa"
 		};
 
     }; 
@@ -753,7 +753,7 @@ class CfgVehicles
 			"dz\characters\headgear\data\motohelmetvisor_dark_co.paa",
 			"dz\characters\headgear\data\motohelmetvisor_scarred_co.paa",
             "dz\characters\headgear\data\motohelmet_yellow_co.paa",
-			"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo4_co.paa"
+			"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo4_co.paa"
 		};
 
     }; 
@@ -767,7 +767,7 @@ class CfgVehicles
 			"dz\characters\headgear\data\motohelmetvisor_dark_co.paa",
 			"dz\characters\headgear\data\motohelmetvisor_scarred_co.paa",
             "dz\characters\headgear\data\motohelmet_yellow_co.paa",
-			"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo5_co.paa"
+			"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallo5_co.paa"
 		};
 
     }; 
@@ -781,7 +781,7 @@ class CfgVehicles
 			"dz\characters\headgear\data\motohelmetvisor_dark_co.paa",
 			"dz\characters\headgear\data\motohelmetvisor_scarred_co.paa",
             "dz\characters\headgear\data\motohelmet_yellow_co.paa",
-			"TheHive_Server_Utilities_Hyerakon\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallox_co.paa"
+			"TheHive_Server_Utilities\TheHive_ItemAndGears\gear\characters\headgears\data\thehive_motohelmet_scarred_giallox_co.paa"
 		};
 
     }; 

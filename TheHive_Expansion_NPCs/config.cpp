@@ -38,17 +38,17 @@ class CfgMods
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"TheHive_Server_Utilities_Hyerakon/TheHive_Expansion_NPCs/Scripts/3_Game"};
+				files[] = {"TheHive_Server_Utilities/TheHive_Expansion_NPCs/Scripts/3_Game"};
 			};
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"TheHive_Server_Utilities_Hyerakon/TheHive_Expansion_NPCs/Scripts/4_World"};
+				files[] = {"TheHive_Server_Utilities/TheHive_Expansion_NPCs/Scripts/4_World"};
 			};
             class missionScriptModule
 			{
 				value="";
-				files[]= {"TheHive_Server_Utilities_Hyerakon/TheHive_Expansion_NPCs/Quests/Scripts/5_Mission"};
+				files[]= {"TheHive_Server_Utilities/TheHive_Expansion_NPCs/Quests/Scripts/5_Mission"};
 			};
 		};
 	};

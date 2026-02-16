@@ -141,7 +141,7 @@ class Stage8
 };
 class Stage9
 {
-	texture="TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_hood_delta_mc.png";
+	texture="TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\delta\hatchback_02_hood_delta_mc.png";
 	texGen="4";
 };
 class Stage10

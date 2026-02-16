@@ -141,7 +141,7 @@ class Stage8
 };
 class Stage9
 {
-	texture="TheHive_Server_Utilities_Hyerakon\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_trunk_concordia_mc.paa";
+	texture="TheHive_Server_Utilities\TheHive_Vehicles\vehicles\wheeled\Hatchback_02\data\concordia\hatchback_02_trunk_concordia_mc.paa";
 	texGen="4";
 };
 class Stage10

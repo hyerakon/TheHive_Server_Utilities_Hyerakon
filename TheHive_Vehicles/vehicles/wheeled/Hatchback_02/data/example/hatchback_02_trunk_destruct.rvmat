@@ -141,7 +141,7 @@ class Stage8
 };
 class Stage9
 {
-	texture="TheHive_Server_Utilities_Hyerakon\${{RELATIVE_PATH}}\hatchback_02_trunk_delta_mc.png";
+	texture="TheHive_Server_Utilities\${{RELATIVE_PATH}}\hatchback_02_trunk_delta_mc.png";
 	texGen="4";
 };
 class Stage10
