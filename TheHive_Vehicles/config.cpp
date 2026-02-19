@@ -61,5 +61,5 @@ class CfgMods
 		{
 			loadStyle=2;
 		};
-	}
+	};
 };

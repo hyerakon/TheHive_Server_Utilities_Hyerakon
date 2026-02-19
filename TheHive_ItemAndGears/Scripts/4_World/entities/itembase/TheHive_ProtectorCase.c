@@ -1,1 +1,0 @@
-class TheHive_ProtectorCase: SmallProtectorCase {}

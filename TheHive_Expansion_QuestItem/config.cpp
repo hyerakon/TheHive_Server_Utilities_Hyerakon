@@ -54,6 +54,14 @@ class CfgVehicles
     class ExpansionQuestItemPackage;
     class ExpansionQuestItemBook;
 
+    class TheHive_4_Paper: ExpansionQuestItemPaper
+    {
+        scope = 2;
+        name = "TheHive_4_Paper";
+        displayName = "$STR_THEHIVE_QUEST_ITEM_4";
+        descriptionShort="$STR_THEHIVE_QUEST_ITEM_4_DESCRIPTION";
+    };
+    
     class TheHive_1002_Paper: ExpansionQuestItemPaper
     {
         scope = 2;
@@ -77,7 +85,7 @@ class CfgVehicles
         displayName = "$STR_THEHIVE_QUEST_ITEM_2105";
         descriptionShort="$STR_THEHIVE_QUEST_ITEM_2105_DESCRIPTION";
     };
-
+    
     class TheHive_QuestItemPackageSKS: ExpansionQuestItemPackage
     {
         scope = 2;
