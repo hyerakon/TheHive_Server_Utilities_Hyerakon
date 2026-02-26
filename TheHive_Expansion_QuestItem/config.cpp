@@ -78,6 +78,14 @@ class CfgVehicles
         descriptionShort="$STR_THEHIVE_QUEST_ITEM_1005_DESCRIPTION";
     };
 
+	class TheHive_2105_Package: ExpansionQuestItemPackage
+    {
+        scope = 2;
+        name = "TheHive_2105_Package";
+        displayName = "$STR_THEHIVE_QUEST_ITEM_2105";
+        descriptionShort="$STR_THEHIVE_QUEST_ITEM_2105_DESCRIPTION";
+    };
+
     class TheHive_10000_Paper: ExpansionQuestItemPaper
     {
         scope = 2;
@@ -92,15 +100,6 @@ class CfgVehicles
         name = "TheHive_20000_Paper";
         displayName = "$STR_THEHIVE_QUEST_ITEM_20000";
         descriptionShort="$STR_THEHIVE_QUEST_ITEM_20000_DESCRIPTION";
-    };
-
-
-	class TheHive_2105_Package: ExpansionQuestItemPackage
-    {
-        scope = 2;
-        name = "TheHive_2105_Package";
-        displayName = "$STR_THEHIVE_QUEST_ITEM_2105";
-        descriptionShort="$STR_THEHIVE_QUEST_ITEM_2105_DESCRIPTION";
     };
     
     class TheHive_QuestItemPackageSKS: ExpansionQuestItemPackage

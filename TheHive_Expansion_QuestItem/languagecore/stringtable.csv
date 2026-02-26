@@ -413,14 +413,6 @@ Trazer um cogumelo. Nada mais é necessário.
 -Tanaka"
 "STR_THEHIVE_QUEST_ITEM_2105","Pacco Rifornimenti - cod.2105","Supply Package - code 2105","Zásobovací balíček – kód 2105","Versorgungspaket – Code 2105","Пакет снабжения – код 2105","Paczka zaopatrzeniowa – kod 2105","Ellátmánycsomag – kód 2105","Pacco Rifornimenti - cod.2105","Paquete de suministros – cód. 2105","Colis de ravitaillement – code 2105","补给包 – 编号2105","補給パッケージ – コード2105","Pacote de suprimentos – cód. 2105","补给包 – 编号2105"
 "STR_THEHIVE_QUEST_ITEM_2105_DESCRIPTION","Un documento che descrive la quest 2105.","A document describing quest 2105.","Dokument popisující úkol 2105.","Ein Dokument, das Quest 2105 beschreibt.","Документ, описывающий задание 2105.","Dokument opisujący zadanie 2105.","A 2105-ös küldetést leíró dokumentum.","Un documento che descrive la quest 2105.","Un documento que describe la misión 2105.","Un document décrivant la quête 2105.","一份描述任务2105的文件。","クエスト2105を説明する書類。","Um documento que descreve a missão 2105.","一份描述任务2105的文件。"
-"STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE","Pacco Tecnico – SKS/Δ","Technical Package – SKS/Δ","Technický balíček – SKS/Δ","Technisches Paket – SKS/Δ","Технический пакет – SKS/Δ","Pakiet techniczny – SKS/Δ","Technikai csomag – SKS/Δ","Pacco Tecnico – SKS/Δ","Paquete técnico – SKS/Δ","Paquet technique – SKS/Δ","技术包 – SKS/Δ","技術パッケージ – SKS/Δ","Pacote técnico – SKS/Δ","技术包 – SKS/Δ"
-"STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE_DESCRIPTION","Un pacco avvolto in tela gialla cerata, legato stretto.
-All’interno: gruppo otturatore SKS, molla di recupero e sistema di scatto.
-Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
-Configurazione intenzionalmente incompleta.","A package wrapped in yellow waxed canvas, tightly bound with cord. Marked with the SKS symbol.","Balíček zabalený do žlutého voskovaného plátna, pevně svázaný provazem. Označen symbolem SKS.","Ein Paket, in gelbes gewachstes Tuch gewickelt und fest mit Schnur gebunden. Mit dem SKS-Symbol markiert.","Пакет, обёрнутый в жёлтую вощёную ткань и туго перевязанный шнуром. Помечен символом SKS.","Paczka owinięta żółtym woskowanym płótnem, ciasno związana sznurkiem. Oznaczona symbolem SKS.","Sárga viaszolt vászonba csomagolt, szorosan zsinórral átkötött csomag. SKS jellel megjelölve.","Un pacco avvolto in tela gialla cerata, legato stretto.
-All’interno: gruppo otturatore SKS, molla di recupero e sistema di scatto.
-Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
-Configurazione intenzionalmente incompleta.","Un paquete envuelto en lona amarilla encerada, atado firmemente con cuerda. Marcado con el símbolo SKS.","Un colis enveloppé de toile cirée jaune, solidement attaché avec une corde. Marqué du symbole SKS.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有SKS标志。","黄色の防水布で包まれ、紐でしっかり縛られた包み。SKSの印が付いている。","Um pacote envolto em lona amarela encerada, firmemente amarrado com corda. Marcado com o símbolo SKS.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有SKS标志。"
 "STR_THEHIVE_QUEST_ITEM_10000","Notifica di Registrazione BLUE","BLUE Registration Notice","Oznámení o registraci BLUE","Registrierungsbenachrichtigung BLUE","Уведомление о регистрации BLUE","Powiadomienie rejestracyjne BLUE","BLUE regisztrációs értesítés","Notifica di Registrazione BLUE","Notificación de Registro BLUE","Notification d’enregistrement BLUE","BLUE 注册通知","BLUE 登録通知","Notificação de Registro BLUE","BLUE 注册通知"
 "STR_THEHIVE_QUEST_ITEM_10000_DESCRIPTION","Un foglio vecchio, ingiallito e piegato più volte. 
 La scrittura è pulita e fredda, come copiata da un registro.
@@ -553,14 +545,80 @@ completar o registo.","一张旧纸，已经发黄并被多次折叠。
 看起来像一张通行证，上面写着你的名字： 
 必须交给 RED HQ 以确认身份并 
 完成注册。"
+"STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE","Pacco Tecnico – SKS/Δ","Technical Package – SKS/Δ","Technický balíček – SKS/Δ","Technisches Paket – SKS/Δ","Технический пакет – SKS/Δ","Pakiet techniczny – SKS/Δ","Technikai csomag – SKS/Δ","Pacco Tecnico – SKS/Δ","Paquete técnico – SKS/Δ","Paquet technique – SKS/Δ","技术包 – SKS/Δ","技術パッケージ – SKS/Δ","Pacote técnico – SKS/Δ","技术包 – SKS/Δ"
+"STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE_DESCRIPTION","Un pacco avvolto in tela gialla cerata, legato stretto.
+All’interno: gruppo otturatore SKS, molla di recupero e sistema di scatto.
+Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
+Configurazione intenzionalmente incompleta.","A package wrapped in yellow waxed canvas, tightly bound.
+Inside: SKS bolt carrier group, recoil spring and trigger assembly.
+Everything perfectly cleaned, lubricated and hand-tuned. No serial number.
+Intentionally incomplete configuration.","Balík zabalený do žlutého voskovaného plátna, pevně svázaný.
+Uvnitř: závěrová sestava SKS, vratná pružina a spoušťový mechanismus.
+Vše dokonale vyčištěné, promazané a ručně seřízené. Bez sériového čísla.
+Záměrně neúplná konfigurace.","Ein Paket, in gelbes gewachstes Tuch gewickelt und fest verschnürt.
+Enthält: SKS-Verschlussträgergruppe, Rückholfeder und Abzugseinheit.
+Alles perfekt gereinigt, geschmiert und von Hand abgestimmt. Keine Seriennummer.
+Absichtlich unvollständige Konfiguration.","Пакет, завернутый в жёлтую вощёную ткань и туго перевязанный.
+Внутри: затворная группа SKS, возвратная пружина и ударно-спусковой механизм.
+Всё идеально очищено, смазано и вручную отрегулировано. Без серийного номера.
+Конфигурация намеренно неполная.","Paczka owinięta w żółte woskowane płótno, mocno związana.
+W środku: zespół zamka SKS, sprężyna powrotna i mechanizm spustowy.
+Wszystko idealnie wyczyszczone, nasmarowane i ręcznie skalibrowane. Brak numeru seryjnego.
+Konfiguracja celowo niekompletna.","Sárga viaszolt vászonba csomagolt, szorosan átkötött csomag.
+Belül: SKS zárszerkezet, visszahúzó rugó és elsütőszerkezet.
+Minden tökéletesen tisztított, kenve és kézzel beállítva. Nincs sorozatszám.
+Szándékosan hiányos konfiguráció.","Un pacco avvolto in tela gialla cerata, legato stretto.
+All’interno: gruppo otturatore SKS, molla di recupero e sistema di scatto.
+Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
+Configurazione intenzionalmente incompleta.","Un paquete envuelto en lona amarilla encerada, atado con firmeza.
+En el interior: conjunto de cerrojo SKS, muelle recuperador y sistema de disparo.
+Todo perfectamente limpio, lubricado y ajustado a mano. Sin número de serie.
+Configuración intencionadamente incompleta.","Un paquet enveloppé dans une toile jaune cirée, solidement attaché.
+À l’intérieur : ensemble culasse SKS, ressort de rappel et mécanisme de détente.
+Le tout parfaitement nettoyé, graissé et réglé à la main. Aucun numéro de série.
+Configuration volontairement incomplète.","一个用黄色上蜡帆布紧紧包裹的包裹。
+内部：SKS 枪机组件、复进簧和击发机构。
+所有部件都经过彻底清洁、润滑并手工校准。没有序列号。
+配置刻意不完整。","黄色いワックス加工キャンバスで包まれ、きつく縛られた包み。
+内部：SKSボルトキャリアグループ、リコイルスプリング、トリガーアセンブリ。
+すべて完全に清掃・給油され、手作業で調整済み。シリアル番号なし。
+意図的に不完全な構成。","Um pacote envolto em lona amarela encerada, bem amarrado.
+No interior: conjunto do ferrolho SKS, mola recuperadora e mecanismo de disparo.
+Tudo perfeitamente limpo, lubrificado e ajustado à mão. Sem número de série.
+Configuração intencionalmente incompleta.","一个用黄色上蜡帆布紧紧包裹的包裹。
+内部：SKS 枪机组件、复进簧和击发机构。
+所有部件都经过彻底清洁、润滑并手工校准。没有序列号。
+配置刻意不完整。"
 "STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE","Pacco Tecnico – Pioneer/Δ","Technical Package – Pioneer/Δ","Technický balíček – Pioneer/Δ","Technisches Paket – Pioneer/Δ","Технический пакет – Pioneer/Δ","Pakiet techniczny – Pioneer/Δ","Technikai csomag – Pioneer/Δ","Pacco Tecnico – Pioneer/Δ","Paquete técnico – Pioneer/Δ","Paquet technique – Pioneer/Δ","技术包 – Pioneer/Δ","技術パッケージ – Pioneer/Δ","Pacote técnico – Pioneer/Δ","技术包 – Pioneer/Δ"
 "STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE_DESCRIPTION","Un pacco avvolto in tela gialla cerata, legato stretto.
 All’interno: otturatore Pioneer, gruppo di scatto e componenti dell’alimentazione.
-Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
-Configurazione intenzionalmente incompleta.","A package wrapped in yellow waxed canvas, tightly bound with cord. Marked with the Pioneer symbol.","Balíček zabalený do žlutého voskovaného plátna, pevně svázaný provazem. Označen symbolem Pioneer.","Ein Paket, in gelbes gewachstes Tuch gewickelt und fest mit Schnur gebunden. Mit dem Pioneer-Symbol markiert.","Пакет, обёрнутый в жёлтую вощёную ткань и туго перевязанный шнуром. Помечен символом Pioneer.","Paczka owinięta żółtym woskowanym płótnem, ciasno związana sznurkiem. Oznaczona symbolem Pioneer.","Sárga viaszolt vászonba csomagolt, szorosan zsinórral átkötött csomag. Pioneer jellel megjelölve.","Un pacco avvolto in tela gialla cerata, legato stretto.
+Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.","A package wrapped in yellow waxed canvas, tightly bound.
+Inside: Pioneer bolt assembly, trigger group and feeding components.
+Everything perfectly cleaned, lubricated and hand-tuned. No serial number.","Balík zabalený do žlutého voskovaného plátna, pevně svázaný.
+Uvnitř: závěr Pioneer, spoušťová sestava a součásti podávání.
+Vše dokonale vyčištěné, promazané a ručně seřízené. Bez sériového čísla.","Ein Paket, in gelbes gewachstes Tuch gewickelt und fest verschnürt.
+Enthält: Pioneer-Verschluss, Abzugseinheit und Zuführkomponenten.
+Alles perfekt gereinigt, geschmiert und von Hand abgestimmt. Keine Seriennummer.","Пакет, завернутый в жёлтую вощёную ткань и туго перевязанный.
+Внутри: затвор Pioneer, ударно-спусковой механизм и элементы подачи.
+Всё идеально очищено, смазано и вручную отрегулировано. Без серийного номера.","Paczka owinięta w żółte woskowane płótno, mocno związana.
+W środku: zamek Pioneer, mechanizm spustowy i elementy podawania.
+Wszystko idealnie wyczyszczone, nasmarowane i ręcznie skalibrowane. Brak numeru seryjnego.","Sárga viaszolt vászonba csomagolt, szorosan átkötött csomag.
+Belül: Pioneer zár, elsütőszerkezet és adagoló alkatrészek.
+Minden tökéletesen tisztított, kenve és kézzel beállítva. Nincs sorozatszám.","Un pacco avvolto in tela gialla cerata, legato stretto.
 All’interno: otturatore Pioneer, gruppo di scatto e componenti dell’alimentazione.
-Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
-Configurazione intenzionalmente incompleta.","Un paquete envuelto en lona amarilla encerada, atado firmemente con cuerda. Marcado con el símbolo Pioneer.","Un colis enveloppé de toile cirée jaune, solidement attaché avec une corde. Marqué du symbole Pioneer.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有Pioneer标志。","黄色の防水布で包まれ、紐でしっかり縛られた包み。Pioneerの印が付いている。","Um pacote envolto em lona amarela encerada, firmemente amarrado com corda. Marcado com o símbolo Pioneer.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有Pioneer标志。"
+Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.","Un paquete envuelto en lona amarilla encerada, atado con firmeza.
+En el interior: cerrojo Pioneer, conjunto de disparo y componentes de alimentación.
+Todo perfectamente limpio, lubricado y ajustado a mano. Sin número de serie.","Un paquet enveloppé dans une toile jaune cirée, solidement attaché.
+À l’intérieur : culasse Pioneer, mécanisme de détente et composants d’alimentation.
+Le tout parfaitement nettoyé, graissé et réglé à la main. Aucun numéro de série.","一个用黄色上蜡帆布紧紧包裹的包裹。
+内部：Pioneer 枪机、击发机构和供弹组件。
+所有部件都经过彻底清洁、润滑并手工校准。没有序列号。","黄色いワックス加工キャンバスで包まれ、きつく縛られた包み。
+内部：Pioneerボルト、トリガーグループ、給弾系コンポーネント。
+すべて完全に清掃・給油され、手作業で調整済み。シリアル番号なし。","Um pacote envolto em lona amarela encerada, bem amarrado.
+No interior: ferrolho Pioneer, mecanismo de disparo e componentes de alimentação.
+Tudo perfeitamente limpo, lubrificado e ajustado à mão. Sem número de série.","一个用黄色上蜡帆布紧紧包裹的包裹。
+内部：Pioneer 枪机、击发机构和供弹组件。
+所有部件都经过彻底清洁、润滑并手工校准。没有序列号。"
 "STR_THEHIVE_QUEST_ITEM_FOODOMATIC_PACKAGE","Pacco Tecnico – Food-O-Matic/Δ","Technical Package – Food-O-Matic/Δ","Technický balíček – Food-O-Matic/Δ","Technisches Paket – Food-O-Matic/Δ","Технический пакет – Food-O-Matic/Δ","Pakiet techniczny – Food-O-Matic/Δ","Technikai csomag – Food-O-Matic/Δ","Pacco Tecnico – Food-O-Matic/Δ","Paquete técnico – Food-O-Matic/Δ","Paquet technique – Food-O-Matic/Δ","技术包 – Food-O-Matic/Δ","技術パッケージ – Food-O-Matic/Δ","Pacote técnico – Food-O-Matic/Δ","技术包 – Food-O-Matic/Δ"
 "STR_THEHIVE_QUEST_ITEM_FOODOMATIC_PACKAGE_DESCRIPTION","Un pacco avvolto in tela gialla cerata, legato stretto.
 All’interno: razioni sigillate, bevande e materiali di consumo per distributori Food-O-Matic.
