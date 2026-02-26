@@ -50,16 +50,16 @@ class CfgMods
 		};
 	};
 
-	class PreloadVehicles
-	{
-		class Hatchback_02_TheHive_Concordia
-		{
-			loadStyle=2;
-		};
-
-		class Hatchback_02_TheHive_Delta
-		{
-			loadStyle=2;
-		};
-	};
+	//class PreloadVehicles
+	//{
+	//	class Hatchback_02_TheHive_Concordia
+	//	{
+	//		loadStyle=2;
+	//	};
+	//
+	//	class Hatchback_02_TheHive_Delta
+	//	{
+	//		loadStyle=2;
+	//	};
+	//};
 };

@@ -423,7 +423,6 @@ class CfgVehicles
 			};
 		};
 	};
-	
 	class TheHive_Hatchback_02_Door_1_1_Concordia: Hatchback_02_Door_1_1
 	{
 		hiddenSelectionsMaterials[]=

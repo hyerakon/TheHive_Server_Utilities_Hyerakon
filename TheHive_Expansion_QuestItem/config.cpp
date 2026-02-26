@@ -78,6 +78,23 @@ class CfgVehicles
         descriptionShort="$STR_THEHIVE_QUEST_ITEM_1005_DESCRIPTION";
     };
 
+    class TheHive_10000_Paper: ExpansionQuestItemPaper
+    {
+        scope = 2;
+        name = "TheHive_10000_Paper";
+        displayName = "$STR_THEHIVE_QUEST_ITEM_10000";
+        descriptionShort="$STR_THEHIVE_QUEST_ITEM_10000_DESCRIPTION";
+    };
+
+    class TheHive_20000_Paper: ExpansionQuestItemPaper
+    {
+        scope = 2;
+        name = "TheHive_20000_Paper";
+        displayName = "$STR_THEHIVE_QUEST_ITEM_20000";
+        descriptionShort="$STR_THEHIVE_QUEST_ITEM_20000_DESCRIPTION";
+    };
+
+
 	class TheHive_2105_Package: ExpansionQuestItemPackage
     {
         scope = 2;

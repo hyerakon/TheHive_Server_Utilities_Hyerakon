@@ -1,148 +1,202 @@
 "Language","original","english","czech","german","russian","polish","hungarian","italian","spanish","french","chinese","japanese","portuguese","chinesesimp"
+"THEHIVE_EXAMPLE","","","","","","","","","","","","","",""
 "STR_THEHIVE_QUEST_ITEM_4","Biglietto piegato","Folded note","Složený lístek","Gefalteter Zettel","Сложенная записка","Złożona kartka","Összehajtott jegyzet","Biglietto piegato","Nota doblada","Note pliée","摺叠的纸条","折りたたまれたメモ","Bilhete dobrado","折叠的纸条"
-"STR_THEHIVE_QUEST_ITEM_1002_DESCRIPTION","Ania,
-se leggi questo… vuol dire che non siamo riusciti a trovarti.
+"STR_THEHIVE_QUEST_ITEM_4_DESCRIPTION","Ania,
 
-Siamo arrivati dalla nonna a Brena, vicino al lunapark. Ti abbiamo aspettata. Ti abbiamo cercata per giorni...
+se leggi questo… vuol dire che non siamo riusciti a trovarti.
+Siamo arrivati dalla nonna a Brena, vicino al lunapark. 
+Ti abbiamo aspettata. Ti abbiamo cercata per giorni...
 
 Se puoi camminare, vai dalla nonna. Brena, vicino al lunapark.
 Resta sulla strada. Non fidarti di nessuno.
-Se senti spari o urla, nasconditi e aspetta che finisca. Se non ci trovi… resta con la nonna. Parti con lei quando può.
+Se senti spari o urla, nasconditi e aspetta che finisca. 
+
+Se non ci trovi… resta con la nonna. Parti con lei quando può.
 La tua roba è già pronta.
+
 Noi ti amiamo. Sempre.
-
 — Mamma e Papà","Ania,
-if you are reading this… it means we couldn’t find you.
 
-We arrived at Grandma’s house in Brena, near the amusement park. We waited for you. We searched for you for days...
+if you are reading this… it means we were not able to find you.
+We arrived at grandma’s house in Brena, near the lunapark. 
+We waited for you. We searched for you for days...
 
-If you can walk, go to Grandma. Brena, near the amusement park.
-Stay on the road. Trust no one.
-If you hear gunshots or screams, hide and wait until it’s over. If you don’t find us… stay with Grandma. Leave with her when she can.
-Your things are already packed.
+If you can walk, go to grandma. Brena, near the lunapark.
+Stay on the road. Do not trust anyone.
+If you hear gunshots or screams, hide and wait until it is over. 
+
+If you cannot find us… stay with grandma. Leave with her when she can.
+Your things are already ready.
+
 We love you. Always.
-
 — Mom and Dad","Ania,
-jestli tohle čteš… znamená to, že jsme tě nenašli.
 
-Dorazili jsme k babičce do Brena, blízko lunaparku. Čekali jsme na tebe. Hledali jsme tě celé dny...
+pokud tohle čteš… znamená to, že se nám tě nepodařilo najít.
+Dorazili jsme k babičce do Breny, blízko lunaparku. 
+Čekali jsme na tebe. Hledali jsme tě celé dny...
 
-Jestli můžeš chodit, jdi k babičce. Brena, blízko lunaparku.
+Pokud můžeš chodit, jdi k babičce. Brena, blízko lunaparku.
 Zůstaň na silnici. Nikomu nevěř.
-Když uslyšíš výstřely nebo křik, schovej se a počkej, až to skončí. Když nás nenajdeš… zůstaň s babičkou. Odejděte spolu, až to půjde.
-Tvé věci jsou už připravené.
+Pokud slyšíš výstřely nebo křik, schovej se a počkej, až to skončí. 
+
+Pokud nás nenajdeš… zůstaň s babičkou. Odejděte spolu, až bude moct.
+Tvoje věci jsou už připravené.
+
 Milujeme tě. Navždy.
-
 — Máma a Táta","Ania,
-wenn du das hier liest… bedeutet das, dass wir dich nicht finden konnten.
 
-Wir sind bei Oma in Brena angekommen, nahe dem Vergnügungspark. Wir haben auf dich gewartet. Wir haben tagelang nach dir gesucht...
+wenn du das liest… bedeutet es, dass wir dich nicht finden konnten.
+Wir sind bei Oma in Brena angekommen, nahe dem Lunapark. 
+Wir haben auf dich gewartet. Wir haben tagelang nach dir gesucht...
 
-Wenn du laufen kannst, geh zu Oma. Brena, nahe dem Vergnügungspark.
+Wenn du laufen kannst, geh zu Oma. Brena, nahe dem Lunapark.
 Bleib auf der Straße. Vertraue niemandem.
-Wenn du Schüsse oder Schreie hörst, versteck dich und warte, bis es vorbei ist. Wenn du uns nicht findest… bleib bei Oma. Geh mit ihr, sobald sie kann.
-Deine Sachen sind schon gepackt.
+Wenn du Schüsse oder Schreie hörst, versteck dich und warte, bis es vorbei ist. 
+
+Wenn du uns nicht findest… bleib bei Oma. Geh mit ihr, wenn sie kann.
+Deine Sachen sind bereits vorbereitet.
+
 Wir lieben dich. Für immer.
-
 — Mama und Papa","Аня,
+
 если ты читаешь это… значит, мы не смогли тебя найти.
+Мы пришли к бабушке в Брену, рядом с лунапарком. 
+Мы ждали тебя. Мы искали тебя днями...
 
-Мы добрались до бабушки в Брене, рядом с лунапарком. Мы ждали тебя. Мы искали тебя несколько дней...
+Если можешь идти, иди к бабушке. Бренa, рядом с лунапарком.
+Держись дороги. Никому не доверяй.
+Если услышишь выстрелы или крики, спрячься и жди, пока всё не закончится. 
 
-Если можешь идти, иди к бабушке. Брена, рядом с лунапарком.
-Держись дороги. Не доверяй никому.
-Если услышишь выстрелы или крики, спрячься и жди, пока всё не закончится. Если не найдёшь нас… оставайся с бабушкой. Уезжай с ней, когда она сможет.
-Твои вещи уже собраны.
+Если не найдёшь нас… оставайся с бабушкой. Уходите с ней, когда она сможет.
+Твои вещи уже готовы.
+
 Мы любим тебя. Всегда.
-
 — Мама и Папа","Ania,
-jeśli to czytasz… to znaczy, że nie mogliśmy cię znaleźć.
 
-Dotarliśmy do babci w Brena, niedaleko lunaparku. Czekaliśmy na ciebie. Szukaliśmy cię przez wiele dni...
+jeśli to czytasz… to znaczy, że nie udało nam się cię znaleźć.
+Dotarliśmy do babci w Brenie, blisko lunaparku. 
+Czekaliśmy na ciebie. Szukaliśmy cię przez dni...
 
-Jeśli możesz chodzić, idź do babci. Brena, niedaleko lunaparku.
-Zostań na drodze. Nie ufaj nikomu.
-Jeśli usłyszysz strzały albo krzyki, schowaj się i czekaj, aż wszystko się skończy. Jeśli nas nie znajdziesz… zostań z babcią. Wyjedź z nią, kiedy będzie mogła.
-Twoje rzeczy są już spakowane.
+Jeśli możesz chodzić, idź do babci. Brena, blisko lunaparku.
+Zostań na drodze. Nikomu nie ufaj.
+Jeśli usłyszysz strzały lub krzyki, ukryj się i czekaj, aż to się skończy. 
+
+Jeśli nas nie znajdziesz… zostań z babcią. Wyjedź z nią, kiedy będzie mogła.
+Twoje rzeczy są już gotowe.
+
 Kochamy cię. Zawsze.
-
 — Mama i Tata","Ania,
-ha ezt olvasod… az azt jelenti, hogy nem találtunk meg.
 
-Megérkeztünk a nagymamához Brenába, a vidámpark közelében. Vártunk rád. Napokig kerestünk...
+ha ezt olvasod… az azt jelenti, hogy nem tudtunk megtalálni.
+Megérkeztünk a nagymamához Brenába, a lunapark közelében. 
+Vártunk rád. Napokig kerestünk...
 
-Ha tudsz járni, menj a nagymamához. Brena, a vidámpark közelében.
+Ha tudsz járni, menj a nagymamához. Brena, a lunapark közelében.
 Maradj az úton. Ne bízz senkiben.
-Ha lövéseket vagy sikolyokat hallasz, bújj el és várj, amíg véget ér. Ha nem találsz minket… maradj a nagymamával. Indulj el vele, amikor tud.
-A holmid már össze van csomagolva.
-Szeretünk téged. Mindig.
+Ha lövéseket vagy kiáltásokat hallasz, bújj el és várd meg, amíg vége lesz. 
 
+Ha nem találsz meg minket… maradj a nagymamával. Menjetek el, amikor tud.
+A dolgaid már készen vannak.
+
+Szeretünk. Mindig.
 — Anya és Apa","Ania,
+
+se leggi questo… vuol dire che non siamo riusciti a trovarti.
+Siamo arrivati dalla nonna a Brena, vicino al lunapark. 
+Ti abbiamo aspettata. Ti abbiamo cercata per giorni...
+
+Se puoi camminare, vai dalla nonna. Brena, vicino al lunapark.
+Resta sulla strada. Non fidarti di nessuno.
+Se senti spari o urla, nasconditi e aspetta che finisca. 
+
+Se non ci trovi… resta con la nonna. Parti con lei quando può.
+La tua roba è già pronta.
+
+Noi ti amiamo. Sempre.
+— Mamma e Papà","Ania,
+
 si lees esto… significa que no pudimos encontrarte.
+Llegamos a casa de la abuela en Brena, cerca del lunapark. 
+Te esperamos. Te buscamos durante días...
 
-Llegamos a casa de la abuela en Brena, cerca del parque de atracciones. Te esperamos. Te buscamos durante días...
+Si puedes caminar, ve con la abuela. Brena, cerca del lunapark.
+Mantente en la carretera. No confíes en nadie.
+Si oyes disparos o gritos, escóndete y espera a que termine. 
 
-Si puedes caminar, ve con la abuela. Brena, cerca del parque de atracciones.
-Quédate en la carretera. No confíes en nadie.
-Si oyes disparos o gritos, escóndete y espera hasta que termine. Si no nos encuentras… quédate con la abuela. Vete con ella cuando pueda.
-Tus cosas ya están preparadas.
+Si no nos encuentras… quédate con la abuela. Vete con ella cuando pueda.
+Tus cosas ya están listas.
+
 Te queremos. Siempre.
-
 — Mamá y Papá","Ania,
-si tu lis ceci… cela signifie que nous n’avons pas réussi à te trouver.
 
-Nous sommes arrivés chez grand-mère à Brena, près du parc d’attractions. Nous t’avons attendue. Nous t’avons cherchée pendant des jours...
+si tu lis ceci… cela signifie que nous n'avons pas réussi à te trouver.
+Nous sommes arrivés chez grand-mère à Brena, près du lunapark. 
+Nous t'avons attendue. Nous t'avons cherchée pendant des jours...
 
-Si tu peux marcher, va chez grand-mère. Brena, près du parc d’attractions.
+Si tu peux marcher, va chez grand-mère. Brena, près du lunapark.
 Reste sur la route. Ne fais confiance à personne.
-Si tu entends des coups de feu ou des cris, cache-toi et attends que cela se termine. Si tu ne nous trouves pas… reste avec grand-mère. Pars avec elle quand elle le pourra.
+Si tu entends des coups de feu ou des cris, cache-toi et attends que cela se termine. 
+
+Si tu ne nous trouves pas… reste avec grand-mère. Pars avec elle quand elle le pourra.
 Tes affaires sont déjà prêtes.
-Nous t’aimons. Toujours.
 
+Nous t'aimons. Toujours.
 — Maman et Papa","Ania，
-如果你读到这封信……说明我们没能找到你。
 
-我们已经到了Brena的奶奶家，靠近游乐园。我们等过你。我们找了你好几天……
+如果你看到这封信...说明我们没能找到你。
+我们已经到了Brena外婆家，靠近游乐园。
+我们等过你。我们找了你很多天...
 
-如果你还能走路，就去奶奶那里。Brena，靠近游乐园。
-沿着道路走。不要相信任何人。
-如果听到枪声或尖叫，躲起来，等一切结束。如果找不到我们……就和奶奶在一起。等她可以的时候和她一起离开。
+如果你还能走路，就去外婆那里。Brena，靠近游乐园。
+沿着公路走。不要相信任何人。
+如果听到枪声或尖叫，躲起来，等一切结束。
+
+如果你找不到我们...就和外婆待在一起。等她可以的时候跟她离开。
 你的东西已经准备好了。
+
 我们爱你。永远。
+——妈妈和爸爸","アニアへ
 
-——妈妈和爸爸","アニアへ、
-これを読んでいるなら……私たちはあなたを見つけられなかったということです。
+これを読んでいるなら...私たちはあなたを見つけられなかったということです。
+私たちはブレナの祖母の家に着きました。遊園地の近くです。
+あなたを待ちました。何日も探しました...
 
-私たちはブレナの祖母の家に着きました。遊園地の近くです。あなたを待ちました。何日も探しました……
+歩けるなら祖母のところへ行きなさい。ブレナ、遊園地の近くです。
+道路から離れないで。誰も信用しないで。
+銃声や叫び声が聞こえたら、隠れて終わるまで待ちなさい。
 
-歩けるなら、祖母のところへ行きなさい。ブレナ、遊園地の近く。
-道から離れないで。誰も信用してはいけません。
-銃声や叫び声が聞こえたら、隠れて終わるまで待ちなさい。私たちが見つからなければ……祖母と一緒にいなさい。彼女が行けるときに一緒に出発しなさい。
+私たちが見つからなかったら...祖母と一緒にいなさい。彼女が動けるときに一緒に出発しなさい。
 あなたの荷物はもう準備してあります。
-愛しています。いつまでも。
 
-— ママとパパ","Ania,
+愛している。いつまでも。
+——ママとパパ","Ania,
+
 se estás a ler isto… significa que não conseguimos encontrar-te.
+Chegámos à casa da avó em Brena, perto do lunapark. 
+Esperámos por ti. Procurámos-te durante dias...
 
-Chegámos à casa da avó em Brena, perto do parque de diversões. Esperámos por ti. Procurámos por ti durante dias...
+Se conseguires andar, vai para a avó. Brena, perto do lunapark.
+Mantém-te na estrada. Não confies em ninguém.
+Se ouvires tiros ou gritos, esconde-te e espera que tudo acabe. 
 
-Se conseguires andar, vai para a avó. Brena, perto do parque de diversões.
-Fica na estrada. Não confies em ninguém.
-Se ouvires tiros ou gritos, esconde-te e espera até acabar. Se não nos encontrares… fica com a avó. Parte com ela quando puder.
-As tuas coisas já estão preparadas.
-Amamos-te. Sempre.
+Se não nos encontrares… fica com a avó. Parte com ela quando puder.
+As tuas coisas já estão prontas.
 
-— Mãe e Pai","Ania，
-如果你读到这封信……说明我们没能找到你。
+Nós amamos-te. Sempre.
+— Mamã e Papá","Ania，
 
-我们已经到了Brena的奶奶家，靠近游乐园。我们等过你。我们找了你好几天……
+如果你看到这封信...说明我们没能找到你。
+我们已经到了Brena外婆家，靠近游乐园。
+我们等过你。我们找了你很多天...
 
-如果你还能走路，就去奶奶那里。Brena，靠近游乐园。
-沿着道路走。不要相信任何人。
-如果听到枪声或尖叫，躲起来，等一切结束。如果找不到我们……就和奶奶在一起。等她可以的时候和她一起离开。
+如果你还能走路，就去外婆那里。Brena，靠近游乐园。
+沿着公路走。不要相信任何人。
+如果听到枪声或尖叫，躲起来，等一切结束。
+
+如果你找不到我们...就和外婆待在一起。等她可以的时候跟她离开。
 你的东西已经准备好了。
-我们爱你。永远。
 
+我们爱你。永远。
 ——妈妈和爸爸"
 "STR_THEHIVE_QUEST_ITEM_1002","Ricevuta di Deposito Oggetti - cod.1002","Object Deposit Receipt - cod1002","Potvrzení o vkladu objektu - cod1002","Objekt-Einzahlungsbeleg – cod1002","Квитанция о залоге объекта - треска1002","Obiektowy dowód wpłaty - kod1002","Tárgybetéti nyugta - cod1002","Ricevuta di Deposito Oggetti - cod.1002","Recibo de depósito objeto - bacalao1002","Reçu de dépôt d'objet - morue1002","對象存款收據 - cod1002","オブジェクトデポジットの受領 - cod1002","Recibo de Depósito Objeto - cód.1002","对象存款收据 - cod1002"
 "STR_THEHIVE_QUEST_ITEM_1002_DESCRIPTION","[Il foglietto è strappato da un blocco. Il tuo nome è scritto a penna, in alto.]
@@ -367,6 +421,138 @@ Configurazione intenzionalmente incompleta.","A package wrapped in yellow waxed 
 All’interno: gruppo otturatore SKS, molla di recupero e sistema di scatto.
 Tutto perfettamente pulito, ingrassato e calibrato a mano. Nessun numero di serie.
 Configurazione intenzionalmente incompleta.","Un paquete envuelto en lona amarilla encerada, atado firmemente con cuerda. Marcado con el símbolo SKS.","Un colis enveloppé de toile cirée jaune, solidement attaché avec une corde. Marqué du symbole SKS.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有SKS标志。","黄色の防水布で包まれ、紐でしっかり縛られた包み。SKSの印が付いている。","Um pacote envolto em lona amarela encerada, firmemente amarrado com corda. Marcado com o símbolo SKS.","一个用黄色防水帆布包裹并用绳子紧紧捆绑的包裹，上面标有SKS标志。"
+"STR_THEHIVE_QUEST_ITEM_10000","Notifica di Registrazione BLUE","BLUE Registration Notice","Oznámení o registraci BLUE","Registrierungsbenachrichtigung BLUE","Уведомление о регистрации BLUE","Powiadomienie rejestracyjne BLUE","BLUE regisztrációs értesítés","Notifica di Registrazione BLUE","Notificación de Registro BLUE","Notification d’enregistrement BLUE","BLUE 注册通知","BLUE 登録通知","Notificação de Registro BLUE","BLUE 注册通知"
+"STR_THEHIVE_QUEST_ITEM_10000_DESCRIPTION","Un foglio vecchio, ingiallito e piegato più volte. 
+La scrittura è pulita e fredda, come copiata da un registro.
+
+Sembra un lasciapassare, c'è il tuo nome scritto sopra: 
+va consegnato all’HQ BLUE per confermare l’identità e 
+completare la registrazione.","An old sheet of paper, yellowed and folded several times. 
+The handwriting is neat and cold, as if copied from a ledger.
+
+It looks like a pass, your name is written on it: 
+it must be delivered to BLUE HQ to confirm identity and 
+complete the registration.","Starý list papíru, zažloutlý a několikrát přeložený. 
+Písmo je čisté a chladné, jako by bylo opsáno z registru.
+
+Vypadá to jako propustka, je na něm napsáno tvé jméno: 
+musí být doručena na HQ BLUE k potvrzení totožnosti a 
+dokončení registrace.","Ein altes Blatt Papier, vergilbt und mehrfach gefaltet. 
+Die Schrift ist sauber und kühl, als wäre sie aus einem Register abgeschrieben.
+
+Es wirkt wie ein Passierschein, dein Name steht darauf: 
+es muss beim HQ BLUE abgegeben werden, um die Identität zu bestätigen und 
+die Registrierung abzuschließen.","Старый лист бумаги, пожелтевший и несколько раз сложенный. 
+Почерк аккуратный и холодный, будто переписан из реестра.
+
+Похоже на пропуск, сверху указано твоё имя: 
+его нужно передать в HQ BLUE, чтобы подтвердить личность и 
+завершить регистрацию.","Stara kartka papieru, pożółkła i wielokrotnie złożona. 
+Pismo jest czyste i chłodne, jakby przepisane z rejestru.
+
+Wygląda jak przepustka, widnieje na niej twoje imię: 
+należy ją dostarczyć do HQ BLUE w celu potwierdzenia tożsamości i 
+zakończenia rejestracji.","Egy régi papírlap, megsárgult és többször összehajtva. 
+Az írás tiszta és hideg, mintha egy nyilvántartásból másolták volna.
+
+Olyan, mint egy belépési engedély, rajta a neved: 
+el kell juttatni a HQ BLUE-hoz a személyazonosság megerősítéséhez és 
+a regisztráció befejezéséhez.","Notifica di Registrazione BLUE","Una hoja vieja, amarillenta y doblada varias veces. 
+La escritura es limpia y fría, como copiada de un registro.
+
+Parece un salvoconducto, lleva tu nombre escrito: 
+debe entregarse en el HQ BLUE para confirmar la identidad y 
+completar el registro.","Une feuille ancienne, jaunie et pliée plusieurs fois. 
+L’écriture est propre et froide, comme copiée d’un registre.
+
+Cela ressemble à un laissez-passer, ton nom y est inscrit : 
+elle doit être remise au HQ BLUE pour confirmer l’identité et 
+finaliser l’enregistrement.","一张旧纸，已经发黄并被多次折叠。 
+字迹干净而冷淡，仿佛从登记册中抄写而来。
+
+看起来像一张通行证，上面写着你的名字： 
+必须交给 BLUE HQ 以确认身份并 
+完成注册。","古びて黄ばんだ紙で、何度も折りたたまれている。 
+筆跡は整っていて冷たく、まるで記録簿から書き写したかのようだ。
+
+通行証のように見え、あなたの名前が書かれている： 
+身元確認と登録完了のために HQ BLUE へ提出しなければならない。","Uma folha antiga, amarelada e dobrada várias vezes. 
+A escrita é limpa e fria, como se copiada de um registo.
+
+Parece um salvo-conduto, tem o teu nome escrito: 
+deve ser entregue no HQ BLUE para confirmar a identidade e 
+completar o registo.","一张旧纸，已经发黄并被多次折叠。 
+字迹干净而冷淡，仿佛从登记册中抄写而来。
+
+看起来像一张通行证，上面写着你的名字： 
+必须交给 BLUE HQ 以确认身份并 
+完成注册。"
+"STR_THEHIVE_QUEST_ITEM_20000","Notifica di Registrazione RED","RED Registration Notice","Oznámení o registraci RED","Registrierungsbenachrichtigung RED","Уведомление о регистрации RED","Powiadomienie rejestracyjne RED","RED regisztrációs értesítés","Notifica di Registrazione RED","Notificación de Registro RED","Notification d’enregistrement RED","RED 注册通知","RED 登録通知","Notificação de Registro RED","RED 注册通知"
+"STR_THEHIVE_QUEST_ITEM_20000_DESCRIPTION","Un foglio vecchio, ingiallito e piegato più volte. 
+La scrittura è pulita e fredda, come copiata da un registro.
+
+Sembra un lasciapassare, c'è il tuo nome scritto sopra: 
+va consegnato all’HQ RED per confermare l’identità e 
+completare la registrazione.","An old sheet of paper, yellowed and folded several times. 
+The handwriting is neat and cold, as if copied from a ledger.
+
+It looks like a pass, your name is written on it: 
+it must be delivered to RED HQ to confirm identity and 
+complete the registration.","Starý list papíru, zažloutlý a několikrát přeložený. 
+Písmo je čisté a chladné, jako by bylo opsáno z registru.
+
+Vypadá to jako propustka, je na něm napsáno tvé jméno: 
+musí být doručena na HQ RED k potvrzení totožnosti a 
+dokončení registrace.","Ein altes Blatt Papier, vergilbt und mehrfach gefaltet. 
+Die Schrift ist sauber und kühl, als wäre sie aus einem Register abgeschrieben.
+
+Es wirkt wie ein Passierschein, dein Name steht darauf: 
+es muss beim HQ RED abgegeben werden, um die Identität zu bestätigen und 
+die Registrierung abzuschließen.","Старый лист бумаги, пожелтевший и несколько раз сложенный. 
+Почерк аккуратный и холодный, будто переписан из реестра.
+
+Похоже на пропуск, сверху указано твоё имя: 
+его нужно передать в HQ RED, чтобы подтвердить личность и 
+завершить регистрацию.","Stara kartka papieru, pożółkła i wielokrotnie złożona. 
+Pismo jest czyste i chłodne, jakby przepisane z rejestru.
+
+Wygląda jak przepustka, widnieje na niej twoje imię: 
+należy ją dostarczyć do HQ RED w celu potwierdzenia tożsamości i 
+zakończenia rejestracji.","Egy régi papírlap, megsárgult és többször összehajtva. 
+Az írás tiszta és hideg, mintha egy nyilvántartásból másolták volna.
+
+Olyan, mint egy belépési engedély, rajta a neved: 
+el kell juttatni a HQ RED-hez a személyazonosság megerősítéséhez és 
+a regisztráció befejezéséhez.","Notifica di Registrazione RED","Una hoja vieja, amarillenta y doblada varias veces. 
+La escritura es limpia y fría, como copiada de un registro.
+
+Parece un salvoconducto, lleva tu nombre escrito: 
+debe entregarse en el HQ RED para confirmar la identidad y 
+completar el registro.","Une feuille ancienne, jaunie et pliée plusieurs fois. 
+L’écriture est propre et froide, comme copiée d’un registre.
+
+Cela ressemble à un laissez-passer, ton nom y est inscrit : 
+elle doit être remise au HQ RED pour confirmer l’identité et 
+finaliser l’enregistrement.","一张旧纸，已经发黄并被多次折叠。 
+字迹干净而冷淡，仿佛从登记册中抄写而来。
+
+看起来像一张通行证，上面写着你的名字： 
+必须交给 RED HQ 以确认身份并 
+完成注册。","古びて黄ばんだ紙で、何度も折りたたまれている。 
+筆跡は整っていて冷たく、まるで記録簿から書き写したかのようだ。
+
+通行証のように見え、あなたの名前が書かれている： 
+身元確認と登録完了のために HQ RED へ提出しなければならない。","Uma folha antiga, amarelada e dobrada várias vezes. 
+A escrita é limpa e fria, como se copiada de um registo.
+
+Parece um salvo-conduto, tem o teu nome escrito: 
+deve ser entregue no HQ RED para confirmar a identidade e 
+completar o registo.","一张旧纸，已经发黄并被多次折叠。 
+字迹干净而冷淡，仿佛从登记册中抄写而来。
+
+看起来像一张通行证，上面写着你的名字： 
+必须交给 RED HQ 以确认身份并 
+完成注册。"
 "STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE","Pacco Tecnico – Pioneer/Δ","Technical Package – Pioneer/Δ","Technický balíček – Pioneer/Δ","Technisches Paket – Pioneer/Δ","Технический пакет – Pioneer/Δ","Pakiet techniczny – Pioneer/Δ","Technikai csomag – Pioneer/Δ","Pacco Tecnico – Pioneer/Δ","Paquete técnico – Pioneer/Δ","Paquet technique – Pioneer/Δ","技术包 – Pioneer/Δ","技術パッケージ – Pioneer/Δ","Pacote técnico – Pioneer/Δ","技术包 – Pioneer/Δ"
 "STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE_DESCRIPTION","Un pacco avvolto in tela gialla cerata, legato stretto.
 All’interno: otturatore Pioneer, gruppo di scatto e componenti dell’alimentazione.

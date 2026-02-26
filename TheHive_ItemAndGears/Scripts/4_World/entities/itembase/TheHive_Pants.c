@@ -1,0 +1,1 @@
+class TheHive_ParamedicPants_Concordia: ParamedicPants_ColorBase {};
