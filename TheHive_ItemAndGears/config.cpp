@@ -1260,7 +1260,7 @@ class CfgVehicles
 		{
 			"TheHive_Server_Utilities\TheHive_ItemAndGears\textures\characters\tops\data\thehive_paramedic_jacket_g_concordia_co.paa",
 			"TheHive_Server_Utilities\TheHive_ItemAndGears\textures\characters\tops\data\thehive_paramedic_jacket_concordia_co.paa",
-			"TheHive_Server_Utilities\TheHive_ItemAndGears\textures\characters\tops\data\thehive_paramedic_jacket_concordia_co.png"
+			"TheHive_Server_Utilities\TheHive_ItemAndGears\textures\characters\tops\data\thehive_paramedic_jacket_concordia_co.paa"
 		};
 	};
     class TheHive_TShirt_Delta: TShirt_ColorBase

@@ -78,14 +78,6 @@ class CfgVehicles
         descriptionShort="$STR_THEHIVE_QUEST_ITEM_1005_DESCRIPTION";
     };
 
-	class TheHive_2105_Package: ExpansionQuestItemPackage
-    {
-        scope = 2;
-        name = "TheHive_2105_Package";
-        displayName = "$STR_THEHIVE_QUEST_ITEM_2105";
-        descriptionShort="$STR_THEHIVE_QUEST_ITEM_2105_DESCRIPTION";
-    };
-
     class TheHive_10000_Paper: ExpansionQuestItemPaper
     {
         scope = 2;
@@ -99,7 +91,7 @@ class CfgVehicles
         scope = 2;
         name = "TheHive_20000_Paper";
         displayName = "$STR_THEHIVE_QUEST_ITEM_20000";
-        descriptionShort="$STR_THEHIVE_QUEST_ITEM_20000_DESCRIPTION";
+        descriptionShort ="$STR_THEHIVE_QUEST_ITEM_20000_DESCRIPTION";
     };
     
     class TheHive_QuestItemPackageSKS: ExpansionQuestItemPackage
@@ -107,7 +99,7 @@ class CfgVehicles
         scope = 2;
         name = "TheHive_QuestItemPackageSKS";
         displayName = "$STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE";
-        descriptionShort="$STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE_DESCRIPTION";
+        descriptionShort ="$STR_THEHIVE_QUEST_ITEM_SKS_PACKAGE_DESCRIPTION";
     };
 
     class TheHive_QuestItemPackagePioneer: ExpansionQuestItemPackage
@@ -115,7 +107,7 @@ class CfgVehicles
         scope = 2;
         name = "TheHive_QuestItemPackagePioneer";
         displayName = "$STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE";
-        descriptionShort="$STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE_DESCRIPTION";
+        descriptionShort ="$STR_THEHIVE_QUEST_ITEM_PIONEER_PACKAGE_DESCRIPTION";
     };
 
     class TheHive_QuestItemPackageFoodOMatic: ExpansionQuestItemPackage
